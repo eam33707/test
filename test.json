@@ -1,8 +1,8 @@
 {
-    "name": "Luxury Dark theme - accent-color gray",
-    "is_dark": true,
+    "name": "Luxury Dark theme",
+    "is_dark": false,
     "colors": {
-        "accent-color": "#111111",
+        "accent-color": "#D9BC00",
         "primary-color": "#FFDD00",
         "warning-color": "#FBC403",
         
