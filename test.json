@@ -18,7 +18,5 @@
     "timeline-text-secondary-color": "#A79000",
     "reaction-row-button-selected-bg-color": "#FFEC70",
 
-    "notification-count-color": "#000000",
-    "unread-badge-color": "#000000",
-    "unread-badge-text-color": "#000000"
+    "custom-css": "--notification-count-text-color: #000000;"
 }
