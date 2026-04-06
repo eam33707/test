@@ -2,8 +2,8 @@
     "name": "Luxury Dark theme",
     "is_dark": true,
     "colors": {
-        "accent-color": "#D9BC00",
-        "primary-color": "#111111",
+        "accent-color": "#111111",
+        "primary-color": "#FFDD00",
         "warning-color": "#FBC403",
         
         "sidebar-color": "#020F1B",
