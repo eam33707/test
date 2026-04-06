@@ -21,6 +21,11 @@
         "timeline-text-secondary-color": "#A79000",
         "reaction-row-button-selected-bg-color": "#FFEC70",
 
-        "unread-badge-color": "#111111"
+        "custom-css": "
+            /* Only change the yellow notification circles to very dark gray */
+            .mx_RoomTile .mx_NotificationBadge {
+                background-color: #111111 !important;
+            }
+        "
     }
 }
