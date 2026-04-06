@@ -1,5 +1,5 @@
 {
-    "name": "Luxury Dark theme",
+    "name": "Luxury Dark X",
     "is_dark": true,
     "colors": {
         "accent-color": "#D9BC00",
@@ -8,7 +8,7 @@
         
         "sidebar-color": "#020F1B",
         "roomlist-background-color": "#011223",
-        "roomlist-highlights-color": "#111111",
+        "roomlist-highlights-color": "#1E354A",
         "roomlist-separator-color": "#05192D", 
         "roomlist-text-color": "#FFEC70",
         "roomlist-text-secondary-color": "#FFF3A4",
