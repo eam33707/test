@@ -1,24 +1,24 @@
 {
-    "name": "Luxury Dark theme - dark gray version",
+    "name": "Luxury Dark theme - accent-color gray",
     "is_dark": true,
     "colors": {
         "accent-color": "#111111",
-        "primary-color": "#111111",
-        "warning-color": "#111111",
+        "primary-color": "#FFDD00",
+        "warning-color": "#FBC403",
         
         "sidebar-color": "#020F1B",
         "roomlist-background-color": "#011223",
         "roomlist-highlights-color": "#1E354A",
         "roomlist-separator-color": "#05192D", 
-        "roomlist-text-color": "#111111",
-        "roomlist-text-secondary-color": "#111111",
+        "roomlist-text-color": "#FFEC70",
+        "roomlist-text-secondary-color": "#FFF3A4",
         
         "timeline-background-color": "#05192D",
         "timeline-highlights-color": "#011223",
-        "timeline-text-color": "#111111",
-        "secondary-content": "#111111",
-        "tertiary-content": "#111111",
-        "timeline-text-secondary-color": "#111111",
-        "reaction-row-button-selected-bg-color": "#111111"
+        "timeline-text-color": "#FFF3A4",
+        "secondary-content": "#FFF3A4",
+        "tertiary-content": "#FFF3A4",
+        "timeline-text-secondary-color": "#A79000",
+        "reaction-row-button-selected-bg-color": "#FFEC70"
     }
 }
