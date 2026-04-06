@@ -3,7 +3,7 @@
     "is_dark": true,
     "colors": {
         "accent-color": "#D9BC00",
-        "primary-color": "#FFDD00",
+        "primary-color": "##111111",
         "warning-color": "#FBC403",
         
         "sidebar-color": "#020F1B",
